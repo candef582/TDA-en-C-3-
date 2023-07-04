@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1669596054 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\seleccion\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"seleccion.h"
+	"jugador.h"
+
+1669597420 c:\users\usuario\documents\apps\code blocks\code blocks\tda\seleccion\main\seleccion.h
+
+1669597704 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\seleccion\main\seleccion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"seleccion.h"
+	"jugador.h"
+
+1669595656 c:\users\usuario\documents\apps\code blocks\code blocks\tda\seleccion\main\jugador.h
+
+1669596375 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\seleccion\main\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"seleccion.h"
+
